@@ -39,4 +39,3 @@ el valor de una propiedad o el valor undefined, si es que no existe en el objeto
 El objetivo final es poder mostrar todas las características en la hoja de especificaciones, a través de la 
 consola, tal como se puede apreciar en la siguiente imagen: 
  
- 
