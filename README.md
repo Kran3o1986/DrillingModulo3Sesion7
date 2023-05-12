@@ -1,6 +1,5 @@
 Drilling Módulo 3 Sesión 7
 
- 
 CUE: ACTUALIZACIONES A ECMASCRIPT 
 DRILLING: PEAKAUTO 
 Para resolver este ejercicio, anteriormente debe haber revisado la lectura y los videos del CUE: 
